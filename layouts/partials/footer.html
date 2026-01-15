@@ -1,0 +1,12 @@
+<!-- Custom footer without the Hugo Blox Kit branding -->
+<footer class="site-footer">
+  {{ with .Site.Copyright }}
+  <p class="powered-by">
+    {{ . | markdownify }}
+  </p>
+  {{ end }}
+
+  {{ if .Site.Params.hugoblox.footer.language_switcher }}
+    {{ partial "footer/language" . }}
+  {{ end }}
+</footer>

@@ -1,15 +1,18 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: AutoScholar – Research Paper Summarizer
+date: 2025-09-10
 links:
-  - type: site
-    url: https://github.com/pandas-dev/pandas
+  - type: Repo
+    url: https://github.com/Harshit-563/AutoScholar
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Natural Language Processing
+  - Transformers
+  - Streamlit
+  - AI
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+AutoScholar is an AI-driven application that summarizes research papers and generates relevant questions to enhance learning and comprehension.
 
 <!--more-->
+
+The project leverages transformer-based models for abstractive summarization, helping users quickly understand complex research papers. A clean Streamlit interface and modular backend make the system easy to use and extend for academic assistance and study workflows.

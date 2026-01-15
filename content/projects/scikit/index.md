@@ -1,15 +1,18 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: AgentCoco – Autonomous AI Agent
+date: 2025-12-01
 links:
-  - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+  - type: Repo
+    url: https://github.com/Harshit-563/AgentCoco
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - AI Agents
+  - Large Language Models
+  - Automation
+  - Python
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+AgentCoco is an autonomous AI agent built to analyze and understand legacy codebases through intelligent task automation.
 
 <!--more-->
+
+The agent uses large language models to reverse-engineer code, generate documentation, and analyze dependencies efficiently. Context optimization techniques and secure tool usage ensure fast execution, reduced token consumption, and safe interaction with system resources.
