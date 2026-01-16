@@ -1,0 +1,4 @@
+{{ $customCSS := resources.Get "css/skills-custom.css" }}
+{{ if $customCSS }}
+  <link rel="stylesheet" href="{{ $customCSS.RelPermalink }}">
+{{ end }}

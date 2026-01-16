@@ -52,35 +52,53 @@ education:
       url: /resume.pdf
       icon: hero/arrow-down-tray
 
-experience: []
+experience:
+  - position: Key Achievements
+    company: ''
+    location: ''
+    date_start: null
+    date_end: null
+    summary: |
+      I have demonstrated strong capabilities in AI and software engineering through multiple competitive platforms and hackathons. As a Top 6 Finalist in Smart India Hackathon 2025, I showcased my ability to develop innovative solutions at a national scale. Additionally, I achieved Top 7% in Amazon ML Challenge 2025 among 8500+ teams, demonstrating expertise in machine learning problem-solving. My competitive programming background (Leetcode Top 13% with 1700 rating, Codechef 2* Coder) reflects my strong foundation in data structures and algorithms. These accomplishments underscore my commitment to excellence in AI-driven software development and continuous technical growth.
 
 skills:
   - name: Programming & Tools
     items:
       - label: Python
-        level: 4
+        level: 4.2
+        icon: devicon/python
       - label: C++
-        level: 4
+        level: 4.5
+        icon: devicon/cplusplus
       - label: SQL
-        level: 4
+        level: 2.9
+        icon: devicon/mysql
       - label: Git
-        level: 4
+        level: 3.2
+        icon: devicon/git
       - label: Docker
-        level: 3
+        level: 3.5
+        icon: devicon/docker
   - name: AI & Frameworks
     items:
       - label: Machine Learning
-        level: 4
+        level: 5
+        icon: devicon/python
       - label: Scikit-learn
-        level: 4
+        level: 3.5
+        icon: devicon/scikitlearn
       - label: TensorFlow
-        level: 3
+        level: 2.7
+        icon: devicon/tensorflow
       - label: PyTorch
-        level: 3
+        level: 4
+        icon: devicon/pytorch
       - label: FastAPI
         level: 4
+        icon: devicon/fastapi
       - label: Streamlit
-        level: 4
+        level: 4.4
+        icon: devicon/streamlit
 
 languages:
   - name: English

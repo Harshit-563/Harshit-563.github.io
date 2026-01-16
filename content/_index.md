@@ -57,9 +57,36 @@ sections:
       subtitle: ''
       text: |-
         - **[Leetcode](https://leetcode.com/u/harsitmaurya555/)**: Top 13%  Rating: 1700
-        - **[Codechef](https://www.codechef.com/users/tanjiro563)**: 2* Coder
+        - **[Codechef](https://www.codechef.com/users/tanjiro563)**: 2 ⭐
     design:
       columns: '1'
+
+  # ================= SKILLS (BENTO BOXES) =================
+  - block: markdown
+    content:
+      title: '⚡ Skills & Expertise'
+      subtitle: ''
+      text: |-
+        **Programming & Tools:** Python • C++ • SQL • Git • Docker
+
+        **AI & Frameworks:** TensorFlow • PyTorch • Scikit-learn • FastAPI • Streamlit
+
+        **Interests:** Artificial Intelligence • Machine Learning • Large Language Models • AI Agents
+    design:
+      columns: '1'
+
+  # ================= CERTIFICATIONS =================
+  - block: collection
+    id: certifications
+    content:
+      title: Certifications
+      text: ''
+      filters:
+        folders:
+          - certifications
+    design:
+      view: card
+      columns: 1
 
   # ================= PROJECTS =================
   - block: collection
