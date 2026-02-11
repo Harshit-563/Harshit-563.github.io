@@ -1,6 +1,6 @@
 ---
 title: EduTrackAI – Compliance Monitoring System
-date: 2025-10-15
+date: 2025-11-15
 links:
   - type: Repo
     url: https://github.com/Harshit-563/EduTrackAI

@@ -38,15 +38,21 @@ sections:
       title: '👋 About Me'
       subtitle: ''
       text: |-
-        I am an Information Technology undergraduate with a strong interest in
-        Artificial Intelligence and Machine Learning.
+        I’m an AI/ML Engineer with a strong foundation in data structures and algorithms and hands-on experience building scalable, data-driven systems.
 
-        I have worked on AI-driven projects such as **EduTrackAI**, an intelligent
-        compliance monitoring system that applies OCR and machine learning to
-        automate document analysis and anomaly detection.
+        I enjoy working at the intersection of problem-solving and machine learning — where structured thinking meets real-world impact. I’ve built end-to-end ML systems for document intelligence, anomaly detection, forecasting, and NLP-based applications, focusing on measurable performance and practical usability.
 
-        I enjoy building practical AI systems that solve real-world problems and
-        continuously learning modern tools and techniques in applied AI.
+        My technical foundation includes:
+        • Python, SQL, and backend integration
+        • Machine Learning & Deep Learning fundamentals
+        • Data preprocessing, feature engineering, and model evaluation
+        • 500+ Data Structures & Algorithms problems solved (Top 13% on LeetCode)
+
+        I’m particularly interested in building reliable, scalable AI systems that move beyond experimentation and create real-world value.
+
+        Currently open to full-time opportunities in AI/ML, Data, or Backend-focused roles.
+
+        Let’s connect.
     design:
       columns: '1'
 
@@ -58,6 +64,7 @@ sections:
       text: |-
         - **[Leetcode](https://leetcode.com/u/harsitmaurya555/)**: Top 13%  Rating: 1700
         - **[Codechef](https://www.codechef.com/users/tanjiro563)**: 2 ⭐
+        - **[Codolio](https://codolio.com/profile/Harshit563)**: Profile
     design:
       columns: '1'
 
@@ -71,7 +78,7 @@ sections:
 
         **AI & Frameworks:** TensorFlow • PyTorch • Scikit-learn • FastAPI • Streamlit
 
-        **Interests:** Artificial Intelligence • Machine Learning • Large Language Models • AI Agents
+        **Interests:** Artificial Intelligence • Machine Learning • DSA • Large Language Models • AI Agents
     design:
       columns: '1'
 
@@ -94,6 +101,7 @@ sections:
     content:
       title: Projects
       text: ''
+      count: 0
       filters:
         folders:
           - projects
@@ -103,3 +111,4 @@ sections:
 
 
 ---
+

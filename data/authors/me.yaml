@@ -14,13 +14,10 @@ postnominals:
 status:
   icon: "✨"
 
-role: Undergraduate | AI & Software Engineering Enthusiast
+role: Undergraduate | AI & ML |Software Engineering 
 
 bio: |
-  Harshit Maurya is an undergraduate Information Technology student with strong
-  interests in Artificial Intelligence and Machine Learning. He enjoys building practical, AI-driven systems and solving
-  real-world problems through scalable and efficient software solutions.
-
+ Harshit Maurya is an AI/ML Engineer with a strong foundation in data structures and algorithms and hands-on experience building scalable machine learning systems. He has developed real-world solutions in document intelligence, anomaly detection, forecasting, and NLP applications using Python and SQL. With 500+ DSA problems solved across competitive programming platforms, he combines algorithmic thinking with practical implementation to design efficient, data-driven systems. He is focused on building reliable AI solutions that create measurable impact in real-world environments.
 affiliations: []
 
 links:
@@ -34,6 +31,7 @@ links:
 
 interests:
   - Artificial Intelligence
+  - Data Structures & Algorithms
   - Machine Learning
   - Large Language Models
   - AI Agents
@@ -58,9 +56,8 @@ experience:
     location: ''
     date_start: null
     date_end: null
-    summary: |
-      I have demonstrated strong capabilities in AI and software engineering through multiple competitive platforms and hackathons. As a Top 6 Finalist in Smart India Hackathon 2025, I showcased my ability to develop innovative solutions at a national scale. Additionally, I achieved Top 7% in Amazon ML Challenge 2025 among 8500+ teams, demonstrating expertise in machine learning problem-solving. My competitive programming background (Leetcode Top 13% with 1700 rating, Codechef 2* Coder) reflects my strong foundation in data structures and algorithms. These accomplishments underscore my commitment to excellence in AI-driven software development and continuous technical growth.
-
+    summary: |  
+      Entry-level AI/ML Engineer with hands-on experience building end-to-end machine learning systems for document intelligence, anomaly detection, and NLP applications. Strong foundation in data structures, algorithms, and problem-solving, with 500+ DSA problems solved across competitive programming platforms. Proficient in Python and SQL, with experience designing scalable, data-driven systems that translate complex datasets into measurable impact.
 skills:
   - name: Programming & Tools
     items:
@@ -127,3 +124,8 @@ competitive_programming:
   - platform: Codechef
     achievement: 2* Coder
     icon: hero/star
+  - platform: Codeforces
+    achievement: 1200+
+  - platform: Codolio
+    achievement: https://codolio.com/profile/Harshit563
+    
