@@ -3,13 +3,8 @@ hugoblox:
   identity:
     name: Harshit Maurya
     type: person
-<<<<<<< HEAD
     tagline: AI/ML Engineer | GenAI | Software Engineering
     description: Harshit Maurya is an AI/ML engineer with a strong interest in machine learning, GenAI, RAG, agentic AI, and software engineering.
-=======
-    tagline: Aspiring AI Engineer and Problem Solver
-    description: Harshit Maurya is an undergraduate Information Technology student with a strong interest in Artificial Intelligence, Machine Learning, and software development.
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
   theme:
     mode: system
     pack: default

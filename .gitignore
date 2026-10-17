@@ -9,12 +9,9 @@
 # Generated site output
 public/
 
-<<<<<<< HEAD
 # Temporary Hugo output (for builds using -d tmp-public)
 tmp-public/
 
-=======
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
 # Hugo resources (processed assets)
 resources/
 

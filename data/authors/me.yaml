@@ -14,17 +14,10 @@ postnominals:
 status:
   icon: "✨"
 
-<<<<<<< HEAD
 role: AI/ML Engineer | GenAI | Software Engineering
 
 bio: |
   Harshit Maurya is an AI/ML Engineer with a software engineering foundation and hands-on experience building machine learning systems, NLP tools, LLM-powered applications, and backend services. He focuses on practical AI engineering: building retrieval systems, agentic workflows, and production-ready ML solutions that connect research with real-world value. He is especially interested in GenAI, RAG, agentic AI, and scalable AI-driven products.
-=======
-role: Undergraduate | AI & ML |Software Engineering 
-
-bio: |
- Harshit Maurya is an AI/ML Engineer with a strong foundation in data structures and algorithms and hands-on experience building scalable machine learning systems. He has developed real-world solutions in document intelligence, anomaly detection, forecasting, and NLP applications using Python and SQL. With 500+ DSA problems solved across competitive programming platforms, he combines algorithmic thinking with practical implementation to design efficient, data-driven systems. He is focused on building reliable AI solutions that create measurable impact in real-world environments.
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
 affiliations: []
 
 links:
@@ -38,7 +31,6 @@ links:
 
 interests:
   - Artificial Intelligence
-<<<<<<< HEAD
   - Generative AI
   - Retrieval-Augmented Generation
   - Agentic AI
@@ -49,16 +41,6 @@ interests:
 education:
   - degree: "Bachelor of Technology in Information Technology "
     cgpa: 8.07/10
-=======
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Large Language Models
-  - AI Agents
-  
-
-education:
-  - degree: Bachelor of Technology in Information Technology
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
     institution: Bundelkhand Institute of Engineering & Technology
     start: 2022-11-01
     end: 2026-05-31
@@ -71,7 +53,6 @@ education:
       icon: hero/arrow-down-tray
 
 experience:
-<<<<<<< HEAD
   - position: AI & ML Intern
     company: Evoastra Ventures Inc.
     location: Remote
@@ -90,15 +71,12 @@ experience:
       - Developed a 50+ metric evaluation pipeline for news summarization analysis using ROUGE and BERTScore.
       - Applied statistical testing and clustering to validate improvements across datasets.
       - Improved semantic quality by 12.5% and reduced redundancy by 97%.
-=======
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
   - position: Key Achievements
     company: ''
     location: ''
     date_start: null
     date_end: null
     summary: |  
-<<<<<<< HEAD
       AI/ML engineer focused on building practical systems for document intelligence, NLP, forecasting, and LLM-powered applications. Strong foundation in Python, backend engineering, and machine learning workflows, with a focus on scalable, production-ready solutions.
 skills:
   - name: Languages & Core
@@ -218,47 +196,6 @@ skills:
       - label: AWS
         level: 3.6
         icon: hero/cloud
-=======
-      Entry-level AI/ML Engineer with hands-on experience building end-to-end machine learning systems for document intelligence, anomaly detection, and NLP applications. Strong foundation in data structures, algorithms, and problem-solving, with 500+ DSA problems solved across competitive programming platforms. Proficient in Python and SQL, with experience designing scalable, data-driven systems that translate complex datasets into measurable impact.
-skills:
-  - name: Programming & Tools
-    items:
-      - label: Python
-        level: 4.2
-        icon: devicon/python
-      - label: C++
-        level: 4.5
-        icon: devicon/cplusplus
-      - label: SQL
-        level: 2.9
-        icon: devicon/mysql
-      - label: Git
-        level: 3.2
-        icon: devicon/git
-      - label: Docker
-        level: 3.5
-        icon: devicon/docker
-  - name: AI & Frameworks
-    items:
-      - label: Machine Learning
-        level: 5
-        icon: devicon/python
-      - label: Scikit-learn
-        level: 3.5
-        icon: devicon/scikitlearn
-      - label: TensorFlow
-        level: 2.7
-        icon: devicon/tensorflow
-      - label: PyTorch
-        level: 4
-        icon: devicon/pytorch
-      - label: FastAPI
-        level: 4
-        icon: devicon/fastapi
-      - label: Streamlit
-        level: 4.4
-        icon: devicon/streamlit
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
 
 languages:
   - name: English
@@ -281,19 +218,11 @@ awards:
 
 competitive_programming:
   - platform: Leetcode
-<<<<<<< HEAD
     achievement: Knight
     rating: "1861"
     icon: hero/star
   - platform: Codechef
     achievement: 3 Star Coder
-=======
-    achievement: Top 13%
-    rating: "1700"
-    icon: hero/star
-  - platform: Codechef
-    achievement: 2* Coder
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
     icon: hero/star
   - platform: Codeforces
     achievement: 1200+

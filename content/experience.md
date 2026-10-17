@@ -20,17 +20,10 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-<<<<<<< HEAD
       title: Skills
       username: me
     design:
       columns: 2
-=======
-      title: Skills & Hobbies
-      username: me
-    design:
-      columns: 1
->>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
   - block: resume-awards
     content:
       title: Awards
