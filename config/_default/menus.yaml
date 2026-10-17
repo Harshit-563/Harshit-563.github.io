@@ -10,9 +10,12 @@ main:
   - name: Experience
     url: experience/
     weight: 20
+<<<<<<< HEAD
   - name: Skills
     url: /#skills
     weight: 22
+=======
+>>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
   - name: Certifications
     url: certifications/
     weight: 25

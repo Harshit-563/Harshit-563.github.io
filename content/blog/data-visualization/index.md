@@ -9,7 +9,11 @@ tags:
   - Hugo Blox
   - Markdown
 cover:
+<<<<<<< HEAD
   image: "featured.jpg"
+=======
+  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
+>>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
   position:
     x: 50
     y: 40
@@ -33,6 +37,7 @@ Use popular tools such as Plotly, Mermaid, and data frames.
 
 ## Embed Rich Content
 
+<<<<<<< HEAD
 This demo originally showcased live third-party embeds. To keep the site fast and reliable in offline or restricted build environments, the examples below use standard Markdown links instead of runtime fetches.
 
 ### Example Resources
@@ -46,6 +51,33 @@ This demo originally showcased live third-party embeds. To keep the site fast an
 ### Custom Images
 
 If you want image-rich embeds, prefer storing those images locally in the page bundle so Hugo does not depend on external fetches during build.
+=======
+HuggingFace Model
+
+{{< embed platform="huggingface" resource="google/embeddinggemma-300m" type="model" >}}
+
+HuggingFace Dataset
+
+{{< embed platform="huggingface" resource="fka/awesome-chatgpt-prompts" type="dataset" >}}
+
+GitHub Repository
+
+{{< embed platform="github" resource="HugoBlox/kit" type="repo" >}}
+
+Custom embed with manual data
+
+{{< embed url="https://example.com" title="My Custom Resource" description="A great resource for learning" >}}
+
+### Custom Images
+
+Embed beautiful images from any source with Hugo image processing (Unsplash, custom URLs, etc.):
+
+{{< embed url="https://example.com" title="Data Visualization Guide" description="Beautiful data visualization workspace" image="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800&h=600&auto=format&fit=crop" width="800" height="600" quality="90" >}}
+
+You can also add images to any platform embed:
+
+{{< embed platform="github" resource="plotly/plotly.py" type="repo" image="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&auto=format&fit=crop" width="600" height="400" >}}
+>>>>>>> f4950150b3e4a2e43b488411af4a4c5f0b0562ba
 
 ## Charts
 
