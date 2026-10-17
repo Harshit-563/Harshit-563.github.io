@@ -39,9 +39,10 @@ interests:
   
 
 education:
-  - degree: "Bachelor of Technology in Information Technology "
-    cgpa: 8.07/10
-    institution: Bundelkhand Institute of Engineering & Technology
+  - degree: "Bachelor of Technology in Information Technology"
+    institution: |-
+      Bundelkhand Institute of Engineering & Technology
+      CGPA: 8.07
     start: 2022-11-01
     end: 2026-05-31
     summary: |
@@ -218,13 +219,16 @@ awards:
 
 competitive_programming:
   - platform: Leetcode
+    link: https://leetcode.com/u/harrycapy/
     achievement: Knight
     rating: "1861"
     icon: hero/star
   - platform: Codechef
+    link: https://www.codechef.com/users/harshit_563
     achievement: 3 Star Coder
     icon: hero/star
   - platform: Codeforces
+    link: https://codeforces.com/profile/Tanjiro563
     achievement: 1200+
   - platform: Codolio
     achievement: https://codolio.com/profile/Harshit563

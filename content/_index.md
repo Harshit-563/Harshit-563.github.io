@@ -54,8 +54,9 @@ sections:
       title: '🏆 Competitive Programming'
       subtitle: ''
       text: |-
-        - **[Leetcode](https://leetcode.com/u/harsitmaurya555/)**: Top 13%  Rating: 1700
-        - **[Codechef](https://www.codechef.com/users/tanjiro563)**: 2 ⭐
+        - **[Leetcode](https://leetcode.com/u/harrycapy/)**: Knight  Rating: 1861
+        - **[Codechef](https://www.codechef.com/users/harshit_563)**: 3 '⭐'
+        - **[Codeforces](https://codeforces.com/profile/Tanjiro563)**: 1000+
         - **[Codolio](https://codolio.com/profile/Harshit563)**: Profile
     design:
       columns: '1'

@@ -342,6 +342,10 @@ body {
   justify-content: center;
 }
 
+.resume-biography .grid.grid-cols-1.md\:grid-cols-2.xl\:grid-cols-3 > div.group .text-gray-700 {
+  white-space: pre-line;
+}
+
 .blox-collection [role="article"] img {
   transform-origin: center;
 }
