@@ -1,0 +1,231 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+
+name:
+  display: Harshit Maurya
+  given: Harshit
+  family: Maurya
+  pronouns: he/him
+
+postnominals:
+  - Bachelor of Technology (B.Tech) in Information Technology
+
+status:
+  icon: "✨"
+
+role: AI/ML Engineer | GenAI | Software Engineering
+
+bio: |
+  Harshit Maurya is an AI/ML Engineer with a software engineering foundation and hands-on experience building machine learning systems, NLP tools, LLM-powered applications, and backend services. He focuses on practical AI engineering: building retrieval systems, agentic workflows, and production-ready ML solutions that connect research with real-world value. He is especially interested in GenAI, RAG, agentic AI, and scalable AI-driven products.
+affiliations: []
+
+links:
+  - icon: at-symbol
+    url: mailto:harshitmaurya555@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/Harshit-563
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/harshitmaurya563
+
+interests:
+  - Artificial Intelligence
+  - Generative AI
+  - Retrieval-Augmented Generation
+  - Agentic AI
+  - Machine Learning
+  - Large Language Models
+  
+
+education:
+  - degree: "Bachelor of Technology in Information Technology "
+    cgpa: 8.07/10
+    institution: Bundelkhand Institute of Engineering & Technology
+    start: 2022-11-01
+    end: 2026-05-31
+    summary: |
+      Coursework includes Artificial Intelligence, Machine Learning,
+      Database Management Systems, Data Analytics, and Cyber Security.
+    button:
+      text: Download Resume
+      url: /resume.pdf
+      icon: hero/arrow-down-tray
+
+experience:
+  - position: AI & ML Intern
+    company: Evoastra Ventures Inc.
+    location: Remote
+    date_start: 2026-02-01
+    date_end: 2026-03-31
+    summary: |
+      - Built a Supply Chain Demand Prediction System using Random Forest, XGBoost, and Neural Networks with FastAPI + Streamlit, deployed using Docker.
+      - Designed a scalable ML pipeline with four stages covering feature engineering, dashboard analytics, and Docker deployment.
+      - Delivered a real-time prediction system to support demand forecasting, decision-making, and reproducible deployment workflows.
+  - position: ML Intern
+    company: Suvidha Foundation
+    location: Remote
+    date_start: 2026-04-01
+    date_end: 2026-05-31
+    summary: |
+      - Developed a 50+ metric evaluation pipeline for news summarization analysis using ROUGE and BERTScore.
+      - Applied statistical testing and clustering to validate improvements across datasets.
+      - Improved semantic quality by 12.5% and reduced redundancy by 97%.
+  - position: Key Achievements
+    company: ''
+    location: ''
+    date_start: null
+    date_end: null
+    summary: |  
+      AI/ML engineer focused on building practical systems for document intelligence, NLP, forecasting, and LLM-powered applications. Strong foundation in Python, backend engineering, and machine learning workflows, with a focus on scalable, production-ready solutions.
+skills:
+  - name: Languages & Core
+    items:
+      - label: Python
+        level: 4.5
+        icon: hero/command-line
+      - label: C++
+        level: 3.8
+        icon: hero/code-bracket
+      - label: SQL
+        level: 4
+        icon: hero/circle-stack
+      - label: Data Structures & Algorithms
+        level: 4.5
+        icon: hero/code-bracket
+  - name: ML & Libraries
+    items:
+      - label: PyTorch
+        level: 4.1
+        icon: hero/cpu-chip
+      - label: scikit-learn
+        level: 4
+        icon: hero/chart-bar
+      - label: LightGBM
+        level: 3.8
+        icon: hero/bolt
+      - label: Transformers
+        level: 4
+        icon: hero/cpu-chip
+      - label: spaCy
+        level: 3.8
+        icon: hero/magnifying-glass
+      - label: OpenCV
+        level: 3.8
+        icon: hero/magnifying-glass
+      - label: Deep Learning
+        level: 4
+        icon: hero/bolt
+      - label: NLP
+        level: 4.1
+        icon: hero/magnifying-glass
+      - label: Model Evaluation
+        level: 4
+        icon: hero/chart-bar
+  - name: Generative AI
+    items:
+      - label: LLM Applications
+        level: 4.2
+        icon: hero/sparkles
+      - label: LangChain
+        level: 3.8
+        icon: hero/code-bracket
+      - label: LangGraph
+        level: 3.5
+        icon: hero/arrow-path
+      - label: Retrieval-Augmented Generation
+        level: 4
+        icon: hero/magnifying-glass
+      - label: Embeddings
+        level: 4
+        icon: hero/cpu-chip
+      - label: Semantic Search
+        level: 4
+        icon: hero/magnifying-glass
+      - label: Agentic AI
+        level: 4
+        icon: hero/arrow-path
+      - label: Hugging Face Transformers
+        level: 4
+        icon: hero/cpu-chip
+  - name: Backend & Software Engineering
+    items:
+      - label: FastAPI
+        level: 4.2
+        icon: devicon/fastapi
+      - label: Flask
+        level: 3.6
+        icon: hero/server-stack
+      - label: REST APIs
+        level: 4.1
+        icon: hero/server-stack
+  - name: Databases
+    items:
+      - label: Vector Databases
+        level: 3.8
+        icon: hero/circle-stack
+      - label: PostgreSQL
+        level: 3.6
+        icon: devicon/postgresql
+      - label: MongoDB
+        level: 3.5
+        icon: devicon/mongodb
+      - label: SQLite
+        level: 3.8
+        icon: hero/circle-stack
+  - name: Infrastructure & Tools
+    items:
+      - label: Git
+        level: 4.1
+        icon: devicon/git
+      - label: Docker
+        level: 4
+        icon: devicon/docker
+      - label: Postman
+        level: 3.8
+        icon: devicon/postman
+      - label: Jupyter Notebook
+        level: 4
+        icon: hero/beaker
+      - label: Google Colab
+        level: 4
+        icon: hero/command-line
+      - label: GitHub
+        level: 4.2
+        icon: devicon/github
+      - label: AWS
+        level: 3.6
+        icon: hero/cloud
+
+languages:
+  - name: English
+    level: 4.6
+    label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
+
+awards:
+  - title: Top 6 Finalist
+    awarder: Smart India Hackathon 2025
+    date: "2025-03-01"
+    icon: hero/trophy
+  - title: Top 7% at Amazon ML Challenge 2025
+    awarder: Amazon ML Challenge
+    date: "2025-01-01"
+    summary: Among 8500+ teams nationwide.
+    icon: hero/trophy
+
+competitive_programming:
+  - platform: Leetcode
+    achievement: Knight
+    rating: "1861"
+    icon: hero/star
+  - platform: Codechef
+    achievement: 3 Star Coder
+    icon: hero/star
+  - platform: Codeforces
+    achievement: 1200+
+  - platform: Codolio
+    achievement: https://codolio.com/profile/Harshit563
+    

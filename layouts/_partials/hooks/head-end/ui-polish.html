@@ -1,0 +1,4 @@
+{{ $uiPolishCSS := resources.Get "css/skills-custom.css" }}
+{{ if $uiPolishCSS }}
+  <link rel="stylesheet" href="{{ $uiPolishCSS.RelPermalink }}">
+{{ end }}
