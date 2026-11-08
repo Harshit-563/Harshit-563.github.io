@@ -232,4 +232,10 @@ competitive_programming:
     achievement: 1200+
   - platform: Codolio
     achievement: https://codolio.com/profile/Harshit563
+  - platform: TensorTonic
+    link: https://www.tensortonic.com/profile/harshit_
+    icon: hero/cpu-chip
+  - platform: Deep-ML
+    link: https://www.deep-ml.com/profile/2xpUsaUzFrO2orjHHGSjGh4v1gv1
+    icon: hero/academic-cap
     
