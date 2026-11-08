@@ -58,6 +58,8 @@ sections:
         - **[Codechef](https://www.codechef.com/users/harshit_563)**: 3 '⭐'
         - **[Codeforces](https://codeforces.com/profile/Tanjiro563)**: 1000+
         - **[Codolio](https://codolio.com/profile/Harshit563)**: Profile
+        - **[TensorTonic](https://www.tensortonic.com/profile/harshit_)**: Profile
+        - **[Deep-ML](https://www.deep-ml.com/profile/2xpUsaUzFrO2orjHHGSjGh4v1gv1)**: Profile
     design:
       columns: '1'
 
