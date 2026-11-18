@@ -17,6 +17,7 @@
     sections.forEach((section, index) => {
       section.setAttribute('data-reveal', '');
       section.style.transitionDelay = reduceMotion ? '0s' : `${Math.min(index * 0.06, 0.18)}s`;
+      if (section.querySelector('[data-coding-dashboard]')) section.classList.add('is-visible');
     });
 
     if (!reduceMotion && 'IntersectionObserver' in window) {
@@ -55,3 +56,7 @@
     });
   })();
 </script>
+{{ $codingDashboardJS := resources.Get "js/coding-dashboard.js" | minify }}
+{{ if $codingDashboardJS }}
+  <script src="{{ $codingDashboardJS.RelPermalink }}" defer></script>
+{{ end }}
